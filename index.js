@@ -8,4 +8,4 @@ client.once('ready', () => {
 
 });
 
-bot.login('NzYwMjUzNjc5NzMwMTYzNzMy.X3JXag.kk05AtjCEXJ_T43U6e7x0B7_37g');
+bot.client(procces.env.token);
