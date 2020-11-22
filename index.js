@@ -21,4 +21,4 @@ client.on('message', message => {
 	// other commands...
 });
 
-client.login(token);
+client.login(procces.env.token);
